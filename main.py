@@ -7,7 +7,7 @@ to the people who keep jamming it, feeding it cheap paper and swearing at it.
 
 import os
 
-ENTRY = "Sorry I jammed on page 47 of 48. You feed me paper thinner than your excuses, so now I chew out of spite."
+ENTRY = "Sorry I jammed on page 47 of 48. You feed me paper thinner than your excuses, so today I unionized."
 
 def main() -> None:
     os.makedirs("/output", exist_ok=True)
